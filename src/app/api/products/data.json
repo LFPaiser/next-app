@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Apê em Ibiza",
+      "slug": "ap-ibiza",
+      "price": 235000,
+      "image": "/andrea-rapuzzi-i2HJyxMiN9M-unsplash.jpg",
+      "description": "Ap localizado próximo aos melores bairros de Ibiza",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Apê em Bruxelas",
+      "slug": "ap-bruxelas",
+      "price": 384750,
+      "image": "/beto-galetto-PWjA3zA497I-unsplash.jpg",
+      "description": "Localizado no anel da cidade nova, a poucos quarteirões da cidade velha.",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Apê em Copacabana",
+      "slug": "ap-copacabana",
+      "price": 5244885,
+      "image": "/bruno-cervera-RLHw2RIUWsM-unsplash.jpg",
+      "description": "Apê próximo a todas as suas celebridades ja 'falecidas'",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "Apê em Maringa",
+      "slug": "ap-maringa",
+      "price": 145720,
+      "image": "/pono-lopez-ZBdqQRBapx8-unsplash.jpg",
+      "description": "Maringa porque sim, Paraná.",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Apê em São Paulo",
+      "slug": "ap-sao-paulo",
+      "price": 228410,
+      "image": "/yucel-moran-f7pTMJ1ekqI-unsplash.jpg",
+      "description": "Apê em São Paulo pros rolês no fim de semana.",
+      "featured": true
+    }
+  ]
+}
